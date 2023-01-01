@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adil</h1>
 <h3 align="center">General Secretary || Teaching Assistant || Computer Engineering Major || Secretary Media NUES || Officer AI/DS GDSC FAST Islamabad ||</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heuscartist" alt="heuscartist" /></a> </p>
 
 - 🔭 I’m currently working on **a renesas F1KH-D8 Microcontroller**
 
