@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **a renesas F1KH-D8 Microcontroller**
 
-- 🌱 I’m currently learning **Artificial Intelligence from Udacity**
+- 🌱 I’m currently learning **RTOS**
 
 - 📫 How to reach me **adil.mubashir@gmail.com**
 
