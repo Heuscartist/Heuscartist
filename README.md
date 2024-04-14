@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adil</h1>
-<h3 align="center">General Secretary || Teaching Assistant || Computer Engineering Major || Secretary Media NUES || Officer AI/DS GDSC FAST Islamabad ||</h3>
+<h3 align="center"> Senior @FAST-NUCES, Islamabad ||Electrical Engineer, Computer Engineering Major || AI Enthusiast</h3>
 
 
 - 🔭 I’m currently working on **a renesas F1KH-D8 Microcontroller**
