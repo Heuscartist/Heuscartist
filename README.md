@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Adil</h1>
-<h3 align="center"> Senior @FAST-NUCES, Islamabad || Electrical Engineer, Computer Engineering Major || AI Enthusiast</h3>
+<h3 align="center"> Graduate Student @LUMS, Lahore || MS in Artificial Intelligence || Electrical Engineer, Computer Engineering Major</h3>
 
 
-- 🔭 I’m currently working on **a renesas F1KH-D8 Microcontroller**
+- 🔭 I’m currently working on **Mastering AI a Repo for all my Portfolio Projects**
 
-- 🌱 I’m currently learning **Reinforcement Learning**
+- 🌱 I’m currently learning **Generatiive AI**
 
 - 📫 How to reach me **adil.mubashir@gmail.com**
 
