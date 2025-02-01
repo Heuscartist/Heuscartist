@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Mastering AI a Repo for all my Portfolio Projects**
 
-- 🌱 I’m currently learning **Generatiive AI**
+- 🌱 I’m currently learning **Generative AI**
 
 - 📫 How to reach me **adil.mubashir@gmail.com**
 
